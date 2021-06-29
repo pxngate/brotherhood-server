@@ -5,5 +5,7 @@ body {
 
 .page-header {
     height: 100vh;
-    background-color: #121212;
+    background-image: url('../img/header/main-header.png');
+    background-size: cover;
+    background-position: center;
 }

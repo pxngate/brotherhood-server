@@ -1,0 +1,19 @@
+{
+  "name": "brotherhood-website",
+  "version": "1.0.0",
+  "description": "The official website of the Brotherhood Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxngate/brotherhood-server.git"
+  },
+  "author": "pxngate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxngate/brotherhood-server/issues"
+  },
+  "homepage": "https://github.com/pxngate/brotherhood-server#readme"
+}
