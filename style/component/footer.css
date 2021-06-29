@@ -1,0 +1,10 @@
+.page-footer .copyright {
+    display: flex;
+    padding: 1.2rem 2.4rem;
+    background-color: #121212;
+    color: #fcfcfc;
+}
+
+.page-footer .copyright .copyright-year {
+    margin-left: auto;
+}
