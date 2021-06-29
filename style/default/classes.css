@@ -9,3 +9,19 @@
     color: transparent;
     -webkit-text-stroke: 1px #fcfcfc;
 }
+
+.bg-primary {
+    background-color: #85cb33;
+    color: #121212;
+}
+
+.bd-white {
+    color: #fcfcfc;
+    border: .1rem solid #fcfcfc;
+    transition: .2s;
+}
+
+.bd-white:hover {
+    background: #fcfcfc;
+    color: #121212;
+}
