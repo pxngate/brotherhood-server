@@ -4,12 +4,22 @@
     left: 0;
     width: 100%;
     color: #fcfcfc;
+    transition: background-color .4s;
+}
+
+.page-navigation.sticky {
+    background-color: #121212;
 }
 
 .page-navigation .nav-content {
     display: flex;
     align-items: center;
     padding: 2.4rem;
+    transition: padding .4s;
+}
+
+.page-navigation.sticky .nav-content {
+    padding: 1.6rem 2.4rem;
 }
 
 .page-navigation .nav-content .nav-logo {

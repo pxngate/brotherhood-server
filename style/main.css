@@ -1,4 +1,5 @@
 body {
+    min-height: 400vh;
     font-size: 1.4rem;
     font-family: 'Ubuntu Regular', sans-serif;
 }
