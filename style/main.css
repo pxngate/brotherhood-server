@@ -64,3 +64,16 @@ body {
         margin-bottom: unset;
     }
 }
+
+.page-header .copyright-label {
+    position: absolute;
+    bottom: 2.4rem;
+    right: 2.4rem;
+    display: none;
+}
+
+@media (min-width: 900px) {
+    .page-header .copyright-label {
+        display: block;
+    }
+}
