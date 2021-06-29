@@ -1,0 +1,11 @@
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stroke {
+    color: transparent;
+    -webkit-text-stroke: 1px #fcfcfc;
+}
