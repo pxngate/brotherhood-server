@@ -1,6 +1,11 @@
 @font-face {
-    font-family: 'Open Sans Regular';
-    src: url('../../font/OpenSans/OpenSans-Regular.ttf');
+    font-family: 'Glacial Indifference Regular';
+    src: url('../../font/GlacialIndifference/GlacialIndifference-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Glacial Indifference Bold';
+    src: url('../../font/GlacialIndifference/GlacialIndifference-Bold.ttf');
 }
 
 @font-face {

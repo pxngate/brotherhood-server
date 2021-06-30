@@ -1,20 +1,17 @@
 .page-navigation {
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
-    color: #fcfcfc;
-    transition: background-color .4s;
-}
-
-.page-navigation.sticky {
-    background-color: #121212;
+    background-color: #fcfcfc;
+    color: #121212;
+    border: .1rem solid #ececec;
 }
 
 .page-navigation .nav-content {
     display: flex;
     align-items: center;
-    padding: 2.4rem;
+    padding: 2rem 2.4rem;
     transition: padding .4s;
 }
 
@@ -38,7 +35,7 @@
 .page-navigation .nav-content .nav-hider .bar {
     width: 3.2rem;
     height: 1px;
-    background-color: #fcfcfc;
+    background-color: #121212;
 }
 
 .page-navigation .nav-content .nav-hider .bar:not(:last-child) {
@@ -48,13 +45,14 @@
 .page-navigation .nav-content .nav-items {
     display: none;
     margin-left: auto;
+    font-size: 1.4rem;
 }
 
 .page-navigation .nav-content .nav-items .nav-item {
     display: flex;
     align-items: center;
     margin-left: 2.4rem;
-    opacity: .75;
+    opacity: .6;
     transition: opacity .2s;
     cursor: pointer;
 }
@@ -63,12 +61,16 @@
     opacity: 1;
 }
 
+.page-navigation .nav-content .nav-items .nav-item.active {
+    opacity: 1;
+}
+
 .page-navigation .nav-content .nav-items .nav-item .item-label {
     margin-right: .8rem;
 }
 
 .page-navigation .nav-content .nav-items .nav-item .dropdown-icon {
-    font-size: 1.3rem;
+    font-size: .9rem;
 }
 
 @media (min-width: 900px) {
@@ -92,7 +94,8 @@
     width: 100%;
     max-width: 40rem;
     height: 100vh;
-    background-color: #040404;
+    background-color: #fcfcfc;
+    border-left: .1rem solid #ececec;
     transition: right .4s;
 }
 
@@ -109,6 +112,6 @@
 .page-navigation .nav-menu .menu-hider {
     width: 3.2rem;
     height: 3.2rem;
-    background-color: #fcfcfc;
+    background-color: #121212;
     cursor: pointer;
 }
