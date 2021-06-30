@@ -51,6 +51,8 @@
 }
 
 .page-navigation .nav-content .nav-items .nav-item {
+    display: flex;
+    align-items: center;
     margin-left: 2.4rem;
     opacity: .75;
     transition: opacity .2s;
@@ -59,6 +61,14 @@
 
 .page-navigation .nav-content .nav-items .nav-item:hover {
     opacity: 1;
+}
+
+.page-navigation .nav-content .nav-items .nav-item .item-label {
+    margin-right: .8rem;
+}
+
+.page-navigation .nav-content .nav-items .nav-item .dropdown-icon {
+    font-size: 1.3rem;
 }
 
 @media (min-width: 900px) {
