@@ -1,0 +1,27 @@
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stroke {
+    color: transparent;
+    -webkit-text-stroke: .1rem #fcfcfc;
+}
+
+.bg-primary {
+    background-color: #85cb33;
+    color: #121212;
+}
+
+.bd-white {
+    color: #fcfcfc;
+    border: .1rem solid #fcfcfc;
+    transition: .2s;
+}
+
+.bd-white:hover {
+    background-color: #fcfcfc;
+    color: #121212;
+}
