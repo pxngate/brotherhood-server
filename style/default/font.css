@@ -2,3 +2,8 @@
     font-family: 'Open Sans Regular';
     src: url('../../font/OpenSans/OpenSans-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Archivo Black';
+    src: url('../../font/ArchivoBlack/ArchivoBlack-Regular.ttf');
+}
