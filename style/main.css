@@ -3,6 +3,7 @@ body {
     font-family: 'Open Sans Regular', sans-serif;
 }
 
-h1 {
-    font-family: 'Archivo Black', serif;
+.page-header {
+    height: 100vh;
+    background-color: #121212;
 }
