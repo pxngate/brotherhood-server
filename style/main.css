@@ -5,6 +5,7 @@ body {
 }
 
 .page-header {
+    padding: 2.4rem;
     height: 100vh;
     min-height: 48rem;
     background-image: url('../img/header/main-header.png');
@@ -21,6 +22,18 @@ body {
 }
 
 .page-header .header-content .header-title {
+    margin-bottom: 4.8rem;
     font-size: 2.4rem;
     font-family: 'Archivo Black', serif;
+}
+
+.page-header .header-ctas {
+    display: flex;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+.page-header .header-ctas .header-cta {
+    margin-left: 1.2rem;
+    padding: 1.2rem 2.4rem;
 }

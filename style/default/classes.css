@@ -19,6 +19,7 @@
     color: #fcfcfc;
     border: .1rem solid #fcfcfc;
     transition: .2s;
+    transition-property: background-color, color;
 }
 
 .bd-white:hover {
