@@ -1,9 +1,10 @@
 body {
+    min-height: 400vh;
     font-size: 1.4rem;
     font-family: 'Open Sans Regular', sans-serif;
 }
 
 .page-header {
     height: 100vh;
-    background-color: #121212;
+    background-color: #242424;
 }
