@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="style/default/classes.css">
     <link rel="stylesheet" href="style/main.css">
     <link rel="stylesheet" href="style/component/nav.css">
+    <link rel="stylesheet" href="style/component/footer.css">
     <script defer src="node_modules/@fortawesome/fontawesome-free/js/brands.js"></script>
     <script defer src="node_modules/@fortawesome/fontawesome-free/js/solid.js"></script>
     <script defer src="node_modules/@fortawesome/fontawesome-free/js/fontawesome.js"></script>
@@ -31,6 +32,9 @@
             </div>
         </div>
     </header>
+    <?php
+        include 'component/page-footer.php';
+    ?>
     <script src="script/nav.js"></script>
 </body>
 </html>
