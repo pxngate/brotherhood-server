@@ -20,14 +20,14 @@
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 1</p>
+                            <p class="box-label">BHS</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 2</p>
+                            <p class="box-label">BHRO</p>
                         </div>
                     </div>
                 </li>
@@ -42,35 +42,35 @@
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 1</p>
+                            <p class="box-label">Státy</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 2</p>
+                            <p class="box-label">Zprávy</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 3</p>
+                            <p class="box-label">Kronika</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 4</p>
+                            <p class="box-label">Galerie</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 5</p>
+                            <p class="box-label">Vyznamenání</p>
                         </div>
                     </div>
                 </li>
@@ -87,21 +87,21 @@
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 1</p>
+                            <p class="box-label">První BHT</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 2</p>
+                            <p class="box-label">Druhý BHT</p>
                         </div>
                         <div class="item-box">
                             <div class="box-image">
                                 <div class="image-content" style=""></div>
                                 <div class="image-overlay"></div>
                             </div>
-                            <p class="box-label">Box 3</p>
+                            <p class="box-label">Třetí BHT</p>
                         </div>
                     </div>
                 </li>
@@ -111,6 +111,16 @@
         </div>
         <div class="nav-menu">
             <div class="menu-hider"></div>
+            <ul class="menu-items">
+                <li class="menu-item"><a href="#" class="menu-link">Domů</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Pravidla</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Roleplay</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Dynmapa</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Zprávy</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Galerie</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Hráči</a></li>
+                <li class="menu-item"><a href="#" class="menu-link">Ke stažení</a></li>
+            </ul>
         </div>
         <div class="dropdown-wrap">
 
