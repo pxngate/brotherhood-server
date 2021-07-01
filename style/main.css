@@ -4,6 +4,11 @@ body {
     font-family: 'Glacial Indifference Regular', sans-serif;
 }
 
+body.no-scrolling {
+    height: 100vh;
+    overflow: hidden;
+}
+
 .page-header {
     padding: 16rem 2.4rem;
     background-image: url('../img/header/main-header.png');

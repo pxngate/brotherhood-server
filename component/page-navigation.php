@@ -8,7 +8,7 @@
                 <div class="bar"></div>
             </div>
             <ul class="nav-items">
-                <li class="nav-item active"><a href="#" class="nav-link">Domů</a></li>
+                <li class="nav-item"><a href="index.php" class="nav-link">Domů</a></li>
                 <li class="nav-item dropdown">
                     <p class="item-label">Pravidla</p>
                     <div class="dropdown-icon">

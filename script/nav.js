@@ -13,6 +13,7 @@ let menuHiderEl = document.querySelector('.page-navigation .nav-menu .menu-hider
 
 function toggle_nav() {
     navEl.classList.toggle('open');
+    document.querySelector('body').classList.toggle('no-scrolling');
 }
 
 navHiderEl.addEventListener('click', () => toggle_nav());
