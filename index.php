@@ -50,49 +50,49 @@
                     <div class="box-header">
                         <div class="box-icon">
                             <i class="fas fa-sun"></i>
-                            <h4 class="box-title">Titulek</h4>
                         </div>
-                        <p class="box-dsc">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
-                            aperiam sint sed quos quisquam?
-                        </p>
+                        <h4 class="box-title">Titulek</h4>
                     </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam? Quis rerum aperiam sint sed quos quisquam?
+                    </p>
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
                         <div class="box-icon">
                             <i class="fas fa-sun"></i>
-                            <h4 class="box-title">Titulek</h4>
                         </div>
-                        <p class="box-dsc">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
-                            aperiam sint sed quos quisquam?
-                        </p>
+                        <h4 class="box-title">Titulek</h4>
                     </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam? Quis rerum aperiam sint sed quos quisquam?
+                    </p>
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
                         <div class="box-icon">
                             <i class="fas fa-sun"></i>
-                            <h4 class="box-title">Titulek</h4>
                         </div>
-                        <p class="box-dsc">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
-                            aperiam sint sed quos quisquam?
-                        </p>
+                        <h4 class="box-title">Titulek</h4>
                     </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam? Quis rerum aperiam sint sed quos quisquam?
+                    </p>
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
                         <div class="box-icon">
                             <i class="fas fa-sun"></i>
-                            <h4 class="box-title">Titulek</h4>
                         </div>
-                        <p class="box-dsc">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
-                            aperiam sint sed quos quisquam?
-                        </p>
+                        <h4 class="box-title">Titulek</h4>
                     </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam? Quis rerum aperiam sint sed quos quisquam?
+                    </p>
                 </div>
             </div>
         </div>
