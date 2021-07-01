@@ -32,6 +32,69 @@
             </div>
         </div>
     </header>
+    <section class="about-section">
+        <div class="text-part">
+            <h2 class="section-title">O serveru</h2>
+            <p class="section-dsc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat,
+                error enim dicta distinctio, numquam voluptas, repudiandae inventore
+                porro architecto libero perspiciatis! Omnis modi voluptatibus cumque!
+            </p>
+            <p class="section-dsc">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quae!
+            </p>
+        </div>
+        <div class="grid-part">
+            <div class="grid-box">
+                <div class="box-header">
+                    <div class="box-icon">
+                        <i class="fas fa-sun"></i>
+                        <h4 class="box-title">Titulek</h4>
+                    </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam?
+                    </p>
+                </div>
+            </div>
+            <div class="grid-box">
+                <div class="box-header">
+                    <div class="box-icon">
+                        <i class="fas fa-sun"></i>
+                        <h4 class="box-title">Titulek</h4>
+                    </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam?
+                    </p>
+                </div>
+            </div>
+            <div class="grid-box">
+                <div class="box-header">
+                    <div class="box-icon">
+                        <i class="fas fa-sun"></i>
+                        <h4 class="box-title">Titulek</h4>
+                    </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam?
+                    </p>
+                </div>
+            </div>
+            <div class="grid-box">
+                <div class="box-header">
+                    <div class="box-icon">
+                        <i class="fas fa-sun"></i>
+                        <h4 class="box-title">Titulek</h4>
+                    </div>
+                    <p class="box-dsc">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis rerum
+                        aperiam sint sed quos quisquam?
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
     <?php
         include 'component/page-footer.php';
     ?>
