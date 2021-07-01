@@ -42,13 +42,14 @@
                     porro architecto libero perspiciatis! Omnis modi voluptatibus cumque!
                 </p>
                 <p class="section-dsc">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quae!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, cum
+                    repellendus amet quam iure exercitationem suscipit!
                 </p>
             </div>
             <div class="grid-part">
                 <div class="grid-box">
                     <div class="box-header">
-                        <div class="box-icon">
+                        <div class="box-icon c-primary">
                             <i class="fas fa-sun"></i>
                         </div>
                         <h4 class="box-title">Titulek</h4>
@@ -60,7 +61,7 @@
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
-                        <div class="box-icon">
+                        <div class="box-icon c-primary">
                             <i class="fas fa-sun"></i>
                         </div>
                         <h4 class="box-title">Titulek</h4>
@@ -72,7 +73,7 @@
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
-                        <div class="box-icon">
+                        <div class="box-icon c-primary">
                             <i class="fas fa-sun"></i>
                         </div>
                         <h4 class="box-title">Titulek</h4>
@@ -84,7 +85,7 @@
                 </div>
                 <div class="grid-box">
                     <div class="box-header">
-                        <div class="box-icon">
+                        <div class="box-icon c-primary">
                             <i class="fas fa-sun"></i>
                         </div>
                         <h4 class="box-title">Titulek</h4>
