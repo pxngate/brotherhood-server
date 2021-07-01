@@ -113,11 +113,26 @@
             <div class="menu-hider"></div>
             <ul class="menu-items">
                 <li class="menu-item"><a href="#" class="menu-link">Domů</a></li>
-                <li class="menu-item"><a href="#" class="menu-link">Pravidla</a></li>
-                <li class="menu-item"><a href="#" class="menu-link">Roleplay</a></li>
+                <li class="menu-item">
+                    <p class="item-label">Pravidla</p>
+                    <div class="dropdown-icon">
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                </li>
+                <li class="menu-item">
+                    <p class="item-label">Pravidla</p>
+                    <div class="dropdown-icon">
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                </li>
                 <li class="menu-item"><a href="#" class="menu-link">Dynmapa</a></li>
                 <li class="menu-item"><a href="#" class="menu-link">Zprávy</a></li>
-                <li class="menu-item"><a href="#" class="menu-link">Galerie</a></li>
+                <li class="menu-item">
+                    <p class="item-label">Pravidla</p>
+                    <div class="dropdown-icon">
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                </li>
                 <li class="menu-item"><a href="#" class="menu-link">Hráči</a></li>
                 <li class="menu-item"><a href="#" class="menu-link">Ke stažení</a></li>
             </ul>
